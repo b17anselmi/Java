@@ -1,4 +1,6 @@
-//program generates three random points on a circle with a radius of 40 and displays angles formed by the three points
+/* exercise 4.6
+*program generates three random points on a circle with a radius of 40 and displays angles formed by the three points
+*/
 public class RndPntsCircle {
 
 	public static void main(String[] args) {
