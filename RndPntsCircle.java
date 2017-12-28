@@ -4,6 +4,7 @@
 public class RndPntsCircle {
 
 	public static void main(String[] args) {
+		//storing variables in arrays seems more intuitive to me
 		double [] point1 = new double[3];
 		double [] point2 = new double [3];
 		double [] point3 = new double [3];
